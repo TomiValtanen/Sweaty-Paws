@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bomb
+  - Wires
+  - Tool
+  - power
+  - alarm
+  - charge
+  - wire
+  - MenuPanel
+  - BombCover
+  - Explosive
+  - Spring
+  - BombButton
+  - Screw
+  - Detonator
+  - BrokenPart
+  - Failure
+  - Monitor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - First
+  - Second
+  - Third
+  - Fourth
+  - Fifth
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HandButton
+    uniqueID: 1618913529
+    locked: 0
+  - name: Nappivalinta
+    uniqueID: 1752744009
+    locked: 0

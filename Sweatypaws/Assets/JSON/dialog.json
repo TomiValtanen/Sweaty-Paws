@@ -1,0 +1,293 @@
+{
+    "scene_1":
+    [
+        {
+            "character_name":"PICKLES",
+            "dialog":"...uuurgh..hmrg...",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Finally, something! Steve go get the car ready. Sergeant pickles, at attention!",
+           "character_image":"snuggles",
+           "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"...mhh...sir...",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"At ease, sergeant. I'll cut to the quick of it, your disposal went tits up, you took one for the company have been in St.Hugbears for a few weeks.",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Weeks?..I can't..",
+            "character_image":"Päähenkilö3",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Harumph, Jelly brain, figures...",
+            "character_image":"snuggles2",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"The wha-",
+            "character_image":"Päähenkilö3",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"It's a form of short-term amnesia, common in our profession. You'll get it all back, I promise. You're a police officer, at Pawston PD, see the badge? You're in the bomb squad, and the city is going down the tubes.",
+            "character_image":"snuggles3",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"First it was a wave of theft, appliance stores, demolition sites, after that came the death threats to city workers, small fires and really nasty graffiti. Now, street div is finding bombs all across the city. I told you, the tubes.",
+            "character_image":"snuggles3",
+            "animation_trigger":"SnugglesTalk1"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Oh no..But sir, Im bedridden and sore all over, why isn't the rest of the squad doing anything?",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Well, about that.. Seemingly, that idiot Toby let them all on leave at the same time, and they all went on Admiral Walrus's Booze Cruise. They're useless. It's you, me and Steve from the motor pool. We're the bomb squad now.",
+            "character_image":"snuggles3",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"But sir, it really hurts.",
+            "character_image":"Päähenkilö2",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"About your pains. Here, have this cinnamon roll.",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Its crunchy...",
+            "character_image":"Päähenkilö3",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"That's just the painkillers, an old trick, the riot squad special. Now get up, we've got no time to lose!",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Look at you, walking it off. It's time to get down to business. This here is Steve. Say hi, Steve",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk2"
+            
+        },
+        {
+            "character_name":"STEVE",
+            "dialog":"Hi Steve.",
+            "character_image":"steve",
+            "animation_trigger":"SteveTalk"
+            
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"why did I even.... Anyways, Van's ready, just so, as there's already a situation on Sugarbear st.",
+            "character_image":"snuggles3",
+            "animation_trigger":"SnugglesTalk2"
+            
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Sir, what if I freeze or panic? I don't think Steve can cover for me if I do.",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk2"
+            
+        },
+        {
+            "character_name":"STEVE",
+            "dialog":"Hell no...sir.",
+            "character_image":"steve3",
+            "animation_trigger":"SteveTalk"
+            
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Think fast, Sergeant! (Manual is thrown at Pickles, its hits him in the head.)",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesSpecial"
+            
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Ow, what was that for?",
+            "character_image":"Päähenkilö4",
+            "animation_trigger":"PicklesTalk2"
+            
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"A test, sergeant.Stay sharp, you're heading into action. That there is the Manual I told you to write, as a training aid. Seems adequate, though your prose needs work. It's still in prototype, but it seems now is the time to test it. Bully for you, Sergeant.",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk2"
+            
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"...",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk2"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"I can see your conflicted, Sergeant. I know it seems desperate, an amnesiac, a grease monkey and a retired old fart, trying to stop all this. But now, truly, it's time to shit or get off the pot. Pawston is scared out of its wits, we must help. The game's afoot, gentlemen, you must be ready.",
+            "character_image":"snuggles2",
+            "animation_trigger":"SnugglesTalk2"
+            
+        },
+        {
+            "character_name":"PICKLES,STEVE",
+            "dialog":"Yes sir!",
+            "character_image":"kaverikuva",
+            "animation_trigger":"StevePicklesTalk"
+            
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Bully for you boys, now mount up and head to Sugarbear st. I'll stay with dispatch and feed you info as it comes in. All told, don't get captured.",
+            "character_image":"snuggles",
+            "animation_trigger":"SnugglesTalk2"
+            
+        }
+        
+    ],
+    "scene_2":
+    [
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Look at you, all whole. Just anothert day at the offfice eh?",
+            "character_image":"snuggles1k",
+           "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"I guess so, sir. Something about that bomb reminded me of someone",
+            "character_image":"Päähenkilö2",
+            "animation_trigger":"PicklesTalk"
+        }
+    ],
+    "scene_3":
+    [
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"The perp, Bisbcuits, is being processed. I'll make him sweat in the box, for sure. But we've got no time to celebrate, a bomb has been found at the Stadium, you gotta head there now!",
+            "character_image":"snuggles3k",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Yes sir. Steve, to Participants stadium!",
+            "character_image":"Päähenkilö4",
+            "animation_trigger":"PicklesTalk"
+        }
+    ],
+    "scene_4":
+    [
+        {
+            "character_name":"PICKLES",
+            "dialog":"Whew, that was a doozy.",
+            "character_image":"Päähenkilö3",
+             "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Bully for you, Sergeant. This Beauregard fellow makes me sick, all that money and no sense of proportion.The things these people get up to...",
+            "character_image":"snuggles3k",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Sir, there's something about those bombs. I can't put my finger on it, but it reminds me of something,I don't know what.",
+            "character_image":"Päähenkilö4",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Does it now? I've checked the street div's scene photos, and I think you're onto something. Tech div cracked the shitheel's phone, turns out he's on a Harmony server called \"Edgy Demo Boizz\", we've cross-refenced with the other creep's devices and they're members of the same group.",
+            "character_image":"snuggles1k",
+            "animation_trigger":"SnugglesTalk"
+        },
+        {
+            "character_name":"SNUGGLES",
+            "dialog":"Server host, \"BabyVomitCannon\" last used his phone at Friendship Tower's scenic restaurant, only a few minutes ago. You must get there immediately, the threat to the public is off the charts!",
+            "character_image":"snuggles1k",
+            "animation_trigger":"SnugglesTalk1"
+        }
+    ],
+    "scene_5":
+    [
+        {
+            "character_name":"HACKLES",
+            "dialog":"Curse your eyes, brother mine! ",
+            "character_image":"hackles2",
+            "animation_trigger":"Intro"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Hackles! What are you doing here? You're supposed to be at Camp Manners! Are you off your meds?",
+            "character_image":"Päähenkilö3",
+            "animation_trigger":"Reveal"
+        },
+        {
+            "character_name":"HACKLES",
+            "dialog":"Of course I am! Have you any idea how much of them I must eat every day? And the taste, cinnamon roll, I'm so sick of it! It's the fault of that disgusting cinnamon roll factory, everything in this town tastes like a baked good of somesort! TIME TO END IT, AND YOU!",
+            "character_image":"hackles3",
+            "animation_trigger":"HacklesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"But brother, you're not acting like yourself, can't you see? Your Evil Twin Syndrome is acting up again.",
+            "character_image":"Päähenkilö-sairaala",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"HACKLES",
+            "dialog":"Of course I know, better than you! Which one of us was always dragged to the doctor, to listen to those sermons on morality and \"how to just let him life his own life\" I didn't get to choose any of this, and I just want it to stop.",
+            "character_image":"hackles",
+            "animation_trigger":"HacklesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"I'll get you the help you need, I promise. But this time you went way too far, Im going to tell Mom and Dad.",
+            "character_image":"Päähenkilö5",
+            "animation_trigger":"PicklesTalk"
+        },
+        {
+            "character_name":"HACKLES",
+            "dialog":"You wouldn't dare!",
+            "character_image":"hackles4",
+            "animation_trigger":"HacklesTalk"
+        },
+        {
+            "character_name":"PICKLES",
+            "dialog":"Just watch me, brother mine...",
+            "character_image":"Päähenkilö4",
+            "animation_trigger":"PicklesTalk"
+        }
+    ]
+}
